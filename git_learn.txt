@@ -1,2 +1,3 @@
 this is a new git file
 i am freedom
+now, i add a new word.
